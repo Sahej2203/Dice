@@ -1,2 +1,2 @@
-# Dice
-The dice game is two player game. The player who gets the highest phase value will win the game.
+# Dice 🎲
+The Dice game is a two-player game. The player who gets the highest dice value will win the game. 🎲🏆
